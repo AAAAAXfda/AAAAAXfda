@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img height="32" src="https://raw.githubusercontent.com/logo/apple/master/images/logo-white.svg"> Hi, I'm Chris!
+	<img height="31" src="https://raw.githubusercontent.com/logo/apple/master/images/logo-white.svg"> Hi, I'm Chris!
 </h1>
 
 <p align="center">
