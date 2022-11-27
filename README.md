@@ -24,8 +24,8 @@
 </h3>
 
 - [x] Brew the world's best cup of coffee. ☕
-- [ ] Create a startup company. 💰
-- [ ] Open source more projects! 💡
+- [x] Create a startup company. 💰
+- [x] Open source more projects! 💡
 
 <p align="center">
 	Thanks for visiting my profile. Be sure to check back often to keep up with what I'm up to these days!
