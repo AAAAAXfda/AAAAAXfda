@@ -12,21 +12,21 @@
 </p>
 
 <p align="center">
-	I am a Computer Science major who has a passion for programming, gaming, and macOS.
+	<strong>I am a Computer Science major who has a passion for programming, gaming, and macOS.<strong>
 </p>
 
 <p align="center">
-	My primary interests at the moment are microservices development, DevOps Engineering, Systems Administration, and constant learning. You can find a list of my 2022 goals below!
+	<strong>My primary interests at the moment are microservices development, DevOps Engineering, Systems Administration, and constant learning. You can find a list of my 2022 goals below!<strong>
 </p>
 
 <h3 align="center">
-	2022 Goals
+	<strong>2022 Goals<strong>
 </h3>
 
-- [x] Brew the world's best cup of coffee. ☕
-- [x] Create a startup company. 💰
-- [x] Open source more projects! 💡
+- [x] <strong>Brew the world's best cup of coffee. ☕<strong>
+- [x] <strong>Create a startup company. 💰<strong>
+- [x] <strong>Open source more projects!💡<strong>
 
 <p align="center">
-	Thanks for visiting my profile. Be sure to check back often to keep up with what I'm up to these days!
+	<strong>Thanks for visiting my profile. Be sure to check back often to keep up with what I'm up to these days!<strong>
 </p>
