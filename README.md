@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<strong>I am a Computer Science major who has a passion for programming, gaming, and macOS.<strong>
+	<strong>I am a Computer Science major who has a passion for programming, gaming, and Linux.<strong>
 </p>
 
 <p align="center">
