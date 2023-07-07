@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-	<strong>My primary interests at the moment are microservices development, DevOps Engineering, Systems Administration, and constant learning. You can find a list of my 2022 goals below!<strong>
+	<strong>My primary interests at the moment are microservices development, DevOps Engineering, Systems Administration, and constant learning. You can find a list of my 2023 goals below!<strong>
 </p>
 
 <h3 align="center">
-	<strong>2022 Goals<strong>
+	<strong>2023 Goals<strong>
 </h3>
 
 - [x] <strong>Brew the world's best cup of coffee. ☕<strong>
