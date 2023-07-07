@@ -1,7 +1,3 @@
-<h1 align="center">
-	<img height="32" src="https://raw.githubusercontent.com/logo/apple/master/images/logo-white.svg"> Hi, I'm Chris!
-</h1>
-
 <p align="center">
 	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/cplusplus/cplusplus-original.svg">
 	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/c/c-original.svg">
@@ -9,10 +5,6 @@
 	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/rust/rust-plain.svg">
 	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/go/go-original.svg">
 	<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-</p>
-
-<p align="center">
-	<strong>I am a Computer Science major who has a passion for programming, gaming, and Linux.<strong>
 </p>
 
 <p align="center">
