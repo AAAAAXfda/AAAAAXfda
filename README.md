@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center">
-	<strong>2023 Goals<strong>
+	<strong>2024 Goals<strong>
 </h3>
 
 - [x] <strong>Brew the world's best cup of coffee. ☕<strong>
